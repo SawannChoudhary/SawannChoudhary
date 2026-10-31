@@ -17,7 +17,7 @@
 
 ## About
 
-I am a Bioinformatics and Biotechnology student interested in applying computational methods to biological questions. My current focus is on **molecular dynamics simulations, computational drug discovery, structural bioinformatics, and computational proteomics**.
+I am a Bioinformatics and Biotechnology student interested in applying computational methods to biological questions. My current focus is on **molecular dynamics simulations, computational drug discovery, structural bioinformatics, and bioinformatics**.
 
 I enjoy building reproducible computational workflows, analysing molecular interactions, and connecting computational results with biological interpretation.
 
