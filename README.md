@@ -16,7 +16,7 @@
 
 ## About Me
 
-I am a Biotechnology and Bioinformatics student interested in understanding biological systems through computational approaches.
+I am a Bioinformatics and Biotechnology student interested in understanding biological systems through computational approaches.
 
 My primary interests lie at the intersection of **molecular dynamics simulations, computational drug discovery, structural bioinformatics, and computational proteomics**.
 
@@ -31,6 +31,7 @@ Currently exploring:
 
 ---
 
+
 ## Research Interests
 
 <table>
@@ -39,7 +40,7 @@ Currently exploring:
 
 ### Molecular Dynamics
 
-Protein dynamics, molecular interactions, conformational changes and simulation analysis.
+Protein dynamics, molecular interactions, conformational changes and biomolecular simulations.
 
 </td>
 <td width="50%" valign="top">
@@ -53,11 +54,20 @@ Molecular docking, binding affinity, free energy calculations and structure-base
 <tr>
 <td width="50%" valign="top">
 
+### Bioinformatics
+
+Sequence analysis, structural bioinformatics, biological databases, computational genomics and biological data analysis.
+
+</td>
+<td width="50%" valign="top">
+
 ### Enhanced Sampling
 
 Metadynamics, collective variables, reweighting and free energy landscapes.
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### Computational Proteomics
@@ -65,10 +75,15 @@ Metadynamics, collective variables, reweighting and free energy landscapes.
 LC-MS/MS data analysis, peptide identification, protein inference and quantification.
 
 </td>
+<td width="50%" valign="top">
+
+### AI/ML in Biology
+
+Machine learning, deep learning and data-driven approaches for biological discovery and drug development.
+
+</td>
 </tr>
 </table>
-
----
 
 ## Featured Projects
 
