@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="360" height="250" viewBox="0 0 360 250">
-
-<path d="M45 190L115 70 185 145 255 45 330 190Z" fill="#DDECF5" stroke="#79AFCB" stroke-width="3"/>
-<path d="M45 190L115 70 185 145 255 45 330 190" fill="none" stroke="#278C91" stroke-width="5"/>
-<path d="M45 190L115 145 185 175 255 115 330 190" fill="none" stroke="#8B80C8" stroke-width="4"/>
-<g fill="#8B80C8"><circle cx="115" cy="70" r="8"/><circle cx="255" cy="45" r="8"/></g>
-</svg>
